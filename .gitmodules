@@ -1,3 +1,6 @@
 [submodule "uboot_am335xice"]
 	path = uboot_am335xice
 	url = ssh://github.com/toxxin/uboot_am335xice
+[submodule "barebox_am335xice"]
+	path = barebox_am335xice
+	url = ssh://github.com/toxxin/barebox_am335xice
